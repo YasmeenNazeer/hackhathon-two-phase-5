@@ -1,4 +1,4 @@
-# Deployment Guide for Phase IV: Todo Chatbot on Kubernetes
+# Deployment Guide for Phase V: Todo Chatbot on Kubernetes
 
 This guide outlines how to deploy the enhanced Todo Chatbot application to a local Kubernetes cluster using the implemented enhancements.
 
@@ -200,7 +200,7 @@ minikube stop
 
 ## Summary
 
-The deployment includes all Phase IV enhancements:
+The deployment includes all Phase V enhancements:
 ✅ Removed inline code from Kubernetes ConfigMaps
 ✅ Enhanced security with multi-stage builds and runtime security
 ✅ Implemented external secrets management

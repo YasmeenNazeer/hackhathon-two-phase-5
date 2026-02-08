@@ -1,4 +1,4 @@
-# Phase 4: Local Kubernetes Deployment with AI Tools
+# Phase 5: Local Kubernetes Deployment with AI Tools
 
 ## Overview
 This phase implements deployment of the Todo Chatbot application on a local Kubernetes cluster using Minikube and Helm Charts, with integration of AI tools including Docker AI (Gordon), kubectl-ai, and Kagent for AI-assisted operations.
@@ -67,7 +67,7 @@ cd <repository-directory>
 
 2. **Navigate to the project directory and run the complete deployment:**
 ```bash
-cd D:\hackhathon-2\phasee-4
+cd D:\hackhathon-2\phasee-5
 ./scripts/deploy-all.sh
 ```
 
